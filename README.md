@@ -11,4 +11,11 @@ npm install
 npm run dev
 ```
 
+To build the production bundle and preview it locally:
+
+```bash
+npm run build
+npm run preview
+```
+
 Create a `.env` file with your `GEMINI_API_KEY` to enable live college data fetching.
